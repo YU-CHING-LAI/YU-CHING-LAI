@@ -1,6 +1,6 @@
 **✨ _YU-CHING-LAI_ ✨** 
 
-- 🔭 I’m currently working on Phishing URLs.
+- 🔭 I’m currently working on dectecting Phishing URLs.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: www.linkedin.com/in/yu-ching-lai
 - 😄 Pronouns: hzyc_
