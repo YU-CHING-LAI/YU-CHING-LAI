@@ -1,6 +1,4 @@
-**YU-CHING-LAI/YU-CHING-LAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**✨ _YU-CHING-LAI_ ✨** 
 
 - 🔭 I’m currently working on Phishing URLs.
 - 🌱 I’m currently learning C++.
