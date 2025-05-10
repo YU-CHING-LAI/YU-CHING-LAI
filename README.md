@@ -1,4 +1,4 @@
-**✨ _YU-CHING-LAI_ ✨** 
+**✨ _YU-CHING LAI_ ✨** 
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Reinforcement Learning and Image Processing.
